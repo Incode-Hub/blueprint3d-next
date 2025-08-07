@@ -12,7 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "canvas": "^3.1.2",
-    "three": "^0.179.1",
+    "three": "^0.110.0",
     "vblob": "^1.1.0"
   }
 }
